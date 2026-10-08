@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ORD-20261007-1011",
+    "createdAt": "2026-10-07T03:35:46.180Z",
+    "customerName": "김혜영",
+    "phone": "01094785349",
+    "address": "충북 충주시 행정13길20",
+    "detailAddress": "101호",
+    "deliveryNote": "문 앞에 놓아주세요",
+    "paymentMethod": "bank",
+    "productName": "자연을 담은 순수생식 50",
+    "optionName": "1박스 (30포 / 1개월분)",
+    "boxCount": 1,
+    "pouchCount": 30,
+    "quantity": 1,
+    "unitPrice": 38000,
+    "totalPrice": 38000,
+    "status": "입금대기",
+    "courier": "CJ대한통운",
+    "trackingNumber": ""
+  }
+]

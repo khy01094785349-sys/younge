@@ -1,0 +1,6 @@
+{
+  "name": "바른생식 - 하루한잔 간편한 한끼",
+  "description": "국내산 50가지 곡물과 채소를 그대로 담은 바른생식. 바쁜 일상 속 물이나 우유에 타서 간편하게 즐기는 든든한 한 끼 식사.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
